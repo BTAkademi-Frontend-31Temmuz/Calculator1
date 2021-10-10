@@ -1,5 +1,3 @@
-import logo from './logo.svg';
-import './App.css';
 import Big from "big.js";
 
 export default function Operation(number1,number2,operation) {
